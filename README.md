@@ -25,7 +25,7 @@ Use o padrão Abstract Factory quando:
 O padrão Abstract Factory tem os seguintes benefícios:
 
 <ul>
-  <li>Usando o Factory Method temos o nosso código de criação em um objeto ou método, evitando assim a duplicação e além disso temos um local único para fazer manutenção. O padrão também nos dá um código flexível e extensível para o futuro.</li>
+  <li>Usando o Abstract Factory temos o nosso código de criação em um objeto ou método, evitando assim a duplicação e além disso temos um local único para fazer manutenção. O padrão também nos dá um código flexível e extensível para o futuro.</li>
   <li>Ele promove harmonia entre produtos. Quando o objetos-produtos numa família são projetados para trabalharem juntos, é importante que uma aplicação use objetos de somente uma família de cada vez. Abstract Factory torna fácil assegurar isso.</li>
 </ul>
 
